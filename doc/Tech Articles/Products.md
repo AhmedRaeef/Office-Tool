@@ -7,6 +7,7 @@ Click to learn more about [PowerPivot](https://support.microsoft.com/en-us/offic
 DCF stand for [Database Compare](https://support.microsoft.com/en-us/office/overview-of-database-compare-58479a8d-e4c8-4325-a670-d9a2e5f1ef5c) and [Spreadsheet Compare](https://support.microsoft.com/en-us/office/overview-of-spreadsheet-compare-13fafa61-62aa-451b-8674-242ce5f2c986).
 
 OSM and OSMUX stand for [Telemetry Dashboard](https://docs.microsoft.com/en-us/deployoffice/compat/compatibility-and-telemetry-in-office) and **Telemetry Log for Office**.
+Volume products can be installed and activated for free. However retail products can't be activated unless you buy it. Product keys on internet just gives you a trial.
 
 MondoOnly stand for Office Lime application, some test components will also be released.
 
